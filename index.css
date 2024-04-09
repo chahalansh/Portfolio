@@ -432,27 +432,27 @@ a
   
   .skills_css
   {
-    width: 80%;
+    width: 75%;
   }
 
   .skills_js
   {
-    width: 75%;
+    width: 80%;
   }
 
   .skills_node
   {
-    width: 80%;
+    width: 60%;
   }
 
   .skills_php
   {
-    width: 55%;
+    width: 80%;
   }
 
   .skills_python
   {
-    width: 60%;
+    width: 90%;
   }
 
   .skills_xd
@@ -543,7 +543,8 @@ a
 .work-col img
 {
   width: 100%;
-  display: block;
+  display: block;;
+  
 }
 
 .layer

@@ -1,4 +1,5 @@
 /*------------------------------------------SKILLs STARTS---------------------------------------------*/
+window.open()
 
 const skillsContent = document.getElementsByClassName('skill_content'),
       skillsHeader  = document.getElementsByClassName('skills_header')
